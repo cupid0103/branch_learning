@@ -1,12 +1,22 @@
-:active-view-transition {
+:disabled {
     animation: none;
 }
-:stalled-view-transition {
+:disabled {
     animation: none;
 }
-:stalled-view-transition {
+:disabled {
     animation: none;
 }
-:stalled-view-transition {
+:disabled {
+    animation: none;
+}
+data-view-transition {
+    animation: none;
+}
+data-view-transition {
+    animation: none;
+}
+data-view-transition {
+
     animation: none;
 }
