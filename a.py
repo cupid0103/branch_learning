@@ -1,7 +1,7 @@
 import os
 a = 123
-b = 456456
-c = a + b
+b = 456
+c = a - b
 print(c)
 
 
