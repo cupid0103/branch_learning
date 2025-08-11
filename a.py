@@ -1,7 +1,7 @@
 import os
-a = 123
-b = 456456
-c = a + b
+a = 1231113
+b = 45689
+c = a * b
 print(c)
 
 

@@ -1,4 +1,12 @@
 :active-view-transition {
     animation: none;
 }
-
+:stalled-view-transition {
+    animation: none;
+}
+:stalled-view-transition {
+    animation: none;
+}
+:stalled-view-transition {
+    animation: none;
+}
